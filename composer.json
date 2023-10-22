@@ -1,0 +1,17 @@
+{
+    "name": "mario/back-end-meteor",
+    "autoload": {
+        "psr-4": {
+            "Mario\\BackEndMeteor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "talbara",
+            "email": "mariobarasona@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
